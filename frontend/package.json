@@ -1,0 +1,11 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "ng": "ng"
+  },
+  "dependencies": {
+    "@angular/cli": "^15.0.3"
+  }
+}
