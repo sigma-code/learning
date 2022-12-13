@@ -4,10 +4,12 @@
   "license": "MIT",
   "scripts": {
     "ng": "ng",
-    "create-vite": "create-vite"
+    "create-vite": "create-vite",
+    "create-vue": "create-vue"
   },
   "dependencies": {
     "@angular/cli": "^15.0.3",
-    "create-vite": "^4.0.0"
+    "create-vite": "^4.0.0",
+    "create-vue": "^3.5.0"
   }
 }
