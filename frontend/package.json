@@ -3,9 +3,11 @@
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
-    "ng": "ng"
+    "ng": "ng",
+    "create-vite": "create-vite"
   },
   "dependencies": {
-    "@angular/cli": "^15.0.3"
+    "@angular/cli": "^15.0.3",
+    "create-vite": "^4.0.0"
   }
 }
