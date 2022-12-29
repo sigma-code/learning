@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "create-svelte": "create-svelte"
+  },
+  "devDependencies": {
+    "create-svelte": "^2.0.1"
+  }
+}
